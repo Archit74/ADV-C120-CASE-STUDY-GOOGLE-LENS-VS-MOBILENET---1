@@ -1,0 +1,63 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+}
+.div_1
+{
+    background-color: gray;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 300;
+}
+.div_2
+{
+    background-color: gray;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 350;
+   margin-top: 15px;
+}
+.div_3
+{
+    background-color: gray;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 350;
+   margin-top: 15px;
+}
+.div_4
+{
+    background-color: gray;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 350;
+   margin-top: 15px;
+}
+.div_5
+{
+    background-color: gray;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 380;
+   margin-top: 15px;
+}
+b{
+    color: purple;
+}
+.div_6
+{
+   color: plum;
+    padding-left: 30px;
+    border-radius: 20px;
+   height: 380;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 2;
+    text-align: center;
+  }
